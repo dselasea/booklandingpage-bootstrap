@@ -1,0 +1,22 @@
+.btn-gradient {
+  background: linear-gradient(to right, #26e95f, #178036);
+  border: none;
+  color: white;
+  border-color: linear-gradient(to right, #26e95f, #178036);
+}
+
+.btn-gradient:hover {
+  color: white;
+  opacity: 0.9;
+}
+
+body {
+  background: url(./images/Ellipse\ 1.png) left top no-repeat,
+    url(./images/Ellipse\ 3.png) left bottom no-repeat,
+    url(./images/Ellipse\ 4.png) center right no-repeat;
+}
+
+.vector {
+  background: url(./images/Vector-1.png) left bottom no-repeat,
+    url(./images/Vector.png) right top no-repeat;
+}
